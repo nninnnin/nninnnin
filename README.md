@@ -13,6 +13,10 @@
 - 초보자에게 HTML, CSS, JavaScript을 교육한 경험이 다수 있습니다.
 - 복합문화공간 Piknic과의 협업으로 전시에 사용될 간단한 키오스크 프로젝트들(Piet Audolf 展, Saul Leiter 展)을 개발하였습니다.
 
+그리고..
+
+- 웹/모바일 샵 개발에 관심이 많습니다.
+
 ### Contact
 
 - nninnnin7@gmail.com
