@@ -19,7 +19,7 @@
 
 ### Portfolio
 
-justindglee.netlify.com
+- https://justindglee.netlify.app/
 
 ### Contact
 
