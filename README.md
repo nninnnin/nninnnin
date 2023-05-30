@@ -2,7 +2,6 @@
 
 회사의 구성원으로서는 프론트엔드 개발자로 일하고 있습니다. <br/>
 
-- [바닐라코딩](https://www.vanillacoding.co/) 부트캠프 8기 수료
 - [캐롯손해보험](https://www.carrotins.com/) 프론트엔드 팀 인턴
 - [바닐라코딩](https://www.vanillacoding.co/) 멘토 및 풀스택 개발
 - [찹스틱스](https://www.chopsticks.market/) 프론트엔드 개발
