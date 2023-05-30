@@ -17,4 +17,4 @@
 
 그리고..
 
-- 고려대학교 [블록체인밸리](https://medium.com/blockchain-valley)에서 블록체인을 공부하고 있습니다.
+- 고려대학교 [블록체인밸리](https://medium.com/blockchain-valley)에서 공부하고 있습니다.
