@@ -11,7 +11,3 @@
 - [피크닉](http://piknic.kr/) 전시 '정원만들기' 정원정보 탐색 키오스크 개발 
 - [피크닉](http://piknic.kr/) 전시 '창문을 통해 어렴풋이' 인스타그램 사진 슬라이드쇼 개발
 - [맹그로브](https://mangrove.city/en/) 제휴이벤트 티징페이지 개발
-
-그리고..
-
-- 고려대학교 [블록체인밸리](https://medium.com/blockchain-valley)에서 공부하고 있습니다.
