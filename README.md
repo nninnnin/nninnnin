@@ -4,7 +4,7 @@
 
 - [캐롯손해보험](https://www.carrotins.com/) 프론트엔드 팀 인턴 (2020.11 - 2021.02)
 - [바닐라코딩](https://www.vanillacoding.co/) 에서 부트캠프 교육 및 개발 담당 (2021.03 - 2022.06)
-- [찹스틱스](https://www.chopsticks.market/) 의 샵(https://chopsticks.store) 및 판매자 어드민 프론트엔드 개발 (2022.06 - 2023.04)
+- [찹스틱스](https://www.chopsticks.market/) 의 샵(https://chopsticks.market) 및 판매자 어드민 프론트엔드 개발 (2022.06 - 2023.04)
 
 개인으로서는 작지만 실제로 사용할 수 있는 것들을 만드는 것을 즐깁니다. <br/>
 
